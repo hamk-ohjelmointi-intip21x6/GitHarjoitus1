@@ -24,6 +24,10 @@ namespace GitHarjoitus2021
         {
             return luku1 * luku2;
         }
+        public int JakoLasku(int luku1, int luku2)
+        {
+            return luku1 / luku2;
+        }
     }
 }
 
