@@ -23,7 +23,7 @@ namespace GitHarjoitus2021
             Console.WriteLine("Jakojäännös on: " + jakojaannos);
 
             Console.WriteLine("Laske lukujen 15 ja 7 tulo");
-            int tulo = laskimeni.Tulo(15, 4);
+            int tulo = laskimeni.Tulo(15, 7);
             Console.WriteLine("Tulo on: " + tulo);
         }
 
