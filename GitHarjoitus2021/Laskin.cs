@@ -22,7 +22,7 @@ namespace GitHarjoitus2021
         }
         public int Tulo(int luku1, int luku2)
         {
-            return luku * luku2;
+            return luku1 * luku2;
         }
     }
 }
